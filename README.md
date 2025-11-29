@@ -72,8 +72,8 @@ C:\> ipconfig /all
 ## C:\tracert www.saveetha.ac.in
 
 ## OUTPUT
----
-<img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+---<img width="773" height="826" alt="Screenshot 2025-11-29 111622" src="https://github.com/user-attachments/assets/cb811961-6b65-437f-bbd6-d5cfa252764f" />
+
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
